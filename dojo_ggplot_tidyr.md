@@ -1,7 +1,10 @@
 dojo : ggplot & tidyr
 ========================================================
-author: Etienne Low-Décariedate: 
-autosize: true
+author: Etienne Low-Décarie
+date: May 7, 2017
+width: 1440
+height: 800
+
 
 Katas (aka challenges)
 ========================================================
