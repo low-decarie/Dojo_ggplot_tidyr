@@ -1,0 +1,8 @@
+Each column is a species
+
+col.names=list("Line","Navicula", "Nitzschia", "Scenedesmus", "Pseudo", "Synechococcus", "Anabaena", "Chlamy","blank")
+
+
+Each row is a line that has been cultured in a different CO2 concentration
+growth.parameters$CO2history[growth.parameters$Line=="A"|growth.parameters$Line=="B"|growth.parameters$Line=="C"]<-"ambient"
+growth.parameters$CO2history[growth.parameters$Line=="D"|growth.parameters$Line=="E"|growth.parameters$Line=="F"]<-"high"

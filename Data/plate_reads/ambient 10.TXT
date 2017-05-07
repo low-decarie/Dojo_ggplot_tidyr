@@ -1,0 +1,20 @@
+
+[DataDescription]
+Name=C:\Documents and Settings\LE3 Users\Desktop\Etienne\Plate Membrane Reciprocal\fourth\ambient 10.pla
+Barcode=
+ReadingDate=09/28/2010 18:03:10
+ReadingType=Reader
+Temperature=25.0
+PromptTitles=Prompt #1:;Prompt #2:;Prompt #3:;Prompt #4:;Prompt #5:;Prompt #6:
+Prompts=;;;;;
+Comment=
+ReportTime=10/01/2010 16:44:35
+
+[Plate: Mean OD]
+;1;2;3;4;5;6;7;8
+A;1.2480;0.7867;1.7402;1.8083;1.4730;1.0720;2.0029;0.2223
+B;1.2757;0.7519;1.7324;1.8333;1.4827;0.6054;1.9524;0.1754
+C;1.2458;0.8132;1.8518;1.2931;1.3859;0.7412;1.9647;0.1879
+D;1.1952;0.8031;1.9837;1.7257;1.3742;1.2953;1.7728;0.1900
+E;1.2879;0.7710;1.8270;1.6572;1.4172;1.1076;1.9980;0.2108
+F;1.3267;0.8059;2.0236;1.6888;1.5054;0.7313;1.9603;0.2573
